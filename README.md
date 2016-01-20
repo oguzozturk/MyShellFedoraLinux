@@ -24,6 +24,7 @@ C. I/O Redirection,
 D. Pipe operator.  
 
 Functionalities and components of my shell are listed below:  
+
 A. System commands  
 It will take the command as input and will execute that in a new process.
 When program  gets the program name, it will create a new process using fork system call, 
